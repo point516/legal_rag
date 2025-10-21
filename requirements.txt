@@ -1,0 +1,25 @@
+# Core RAG dependencies
+faiss-cpu
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
+transformers
+torch
+
+# Web framework
+fastapi
+uvicorn
+
+# Telegram bot
+python-telegram-bot
+
+# Document processing
+python-docx
+lxml
+
+# Utilities
+python-dotenv
+requests
+numpy
+scikit-learn
